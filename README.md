@@ -7,7 +7,7 @@
 
 ## Objectives_of_the_Analysis-
 
-1) To Determine variables that are significant in predicting the price of a car.
+1) To determine variables that are significant in predicting the price of a car.
 2) How these variables describes the price of a car.
 
 ## EDA_Methodology_Employed- 
